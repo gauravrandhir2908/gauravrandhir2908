@@ -1,5 +1,5 @@
 ### Hi there 👋
-Updated it for fun
+Updated it for fun first
 <!--
 **gauravrandhir2908/gauravrandhir2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
